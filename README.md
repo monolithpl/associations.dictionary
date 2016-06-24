@@ -9,3 +9,18 @@
 ### usage
 ```node create.js <number of associations>```
 creates a file named ```result``` with specified number of associations per word
+
+### suggested workflow
+```node create.js 10```
+```stardict-editor.exe``` (unzip from ```tools\stardict editor.zip```) -- load ```result``` with the gui
+```dictzip <result>.dz```
+```dictzip <result>.idx```
+
+### example usage
+Below are some projects that make use of the word associations dictionary:
+- [Exploring word associations](http://monolithpl.github.io/word.associations/)
+- [Create Taboo cards for ESL conversation classes. Learn through word associations](http://monolithpl.github.io/taboo-cards/)
+
+MIT License
+
+Copyright 2016 Wiktor Jakubczyc
