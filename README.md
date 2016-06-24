@@ -8,6 +8,7 @@
 
 ### usage
 ```node create.js <number of associations>```
+
 creates a file named ```result``` with specified number of associations per word
 
 ### suggested workflow
