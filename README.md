@@ -5,7 +5,7 @@
  * [wordassociation.org](http://www.wordassociation.org/about/)
  * [taboogame.net](http://taboogame.net) and [playtaboo.com](http://www.playtaboo.com)
 - data format: takes in original ```xml``` and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
-- 
+
 ### usage
 ```node create.js <number of associations>```
 creates a file named ```result``` with specified number of associations per word
