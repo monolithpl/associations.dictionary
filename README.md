@@ -12,8 +12,11 @@ creates a file named ```result``` with specified number of associations per word
 
 ### suggested workflow
 ```node create.js 10```
+
 ```stardict-editor.exe``` (unzip from ```tools\stardict editor.zip```) -- load ```result``` with the gui
+
 ```dictzip <result>.dz```
+
 ```dictzip <result>.idx```
 
 ### example usage
