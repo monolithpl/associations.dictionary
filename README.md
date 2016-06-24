@@ -1,5 +1,5 @@
 # Word associations dictionary
-- the most comprehensive dictionary of word associations today, combining data from:
+The most comprehensive dictionary of word associations today, combining data from:
  * [Edinburgh Associative Thesaurus (EAT)](http://www.eat.rl.ac.uk/)
  * [University of South Florida Free Association Norms (USF-FAN)](http://w3.usf.edu/FreeAssociation/)
  * [wordassociation.org](http://www.wordassociation.org/about/)
