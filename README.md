@@ -4,7 +4,13 @@
  * [University of South Florida Free Association Norms (USF-FAN)](http://w3.usf.edu/FreeAssociation/)
  * [wordassociation.org](http://www.wordassociation.org/about/)
  * [taboogame.net](http://taboogame.net) and [playtaboo.com](http://www.playtaboo.com)
-- data format: takes in original ```xml``` and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
+
+###data format
+- takes in original ```xml``` files 
+- and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
+
+###quick start
+A precompiled version of the Word associations dictionary is available from the ```output``` folder in the repository
 
 ### usage
 ```node create.js <number of associations>```
