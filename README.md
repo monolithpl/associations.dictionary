@@ -5,6 +5,10 @@ The most comprehensive dictionary of word associations today, combining data fro
  * [wordassociation.org](http://www.wordassociation.org/about/)
  * [taboogame.net](http://taboogame.net) and [playtaboo.com](http://www.playtaboo.com)
 
+## demo
+![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
+![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
+
 ##data format
 - takes in original ```xml``` files 
 - and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
@@ -28,8 +32,8 @@ creates a file named ```result``` with specified number of associations per word
 
 ## example usage
 Below are some projects that make use of the word associations dictionary:
-- [Exploring word associations](http://monolithpl.github.io/word.associations/)
-- [Create Taboo cards for ESL conversation classes. Learn through word associations](http://monolithpl.github.io/taboo-cards/)
+- [Exploring word associations](https://github.com/monolithpl/taboo-cards)
+- [Create Taboo cards for ESL conversation classes. Learn through word associations](https://github.com/monolithpl/word.associations)
 
 MIT License
 
