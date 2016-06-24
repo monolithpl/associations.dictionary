@@ -6,8 +6,8 @@ The most comprehensive dictionary of word associations today, combining data fro
  * [taboogame.net](http://taboogame.net) and [playtaboo.com](http://www.playtaboo.com)
 
 ## demo
-![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
 ![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
+![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
 
 ##data format
 - takes in original ```xml``` files 
