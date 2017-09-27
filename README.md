@@ -32,8 +32,8 @@ creates a file named ```result``` with specified number of associations per word
 
 ## example usage
 Below are some projects that make use of the word associations dictionary:
-- [Exploring word associations](https://github.com/monolithpl/taboo-cards)
-- [Create Taboo cards for ESL conversation classes. Learn through word associations](https://github.com/monolithpl/word.associations)
+- [Exploring word associations](https://github.com/monolithpl/word.associations)
+- [Create Taboo cards for ESL conversation classes. Learn through word associations](https://github.com/monolithpl/taboo-cards)
 
 MIT License
 
