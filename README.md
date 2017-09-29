@@ -21,13 +21,10 @@ If you don't want to use the precompiled version of the word associations dictio
 ```node create.js <number of associations>``` creates a file named ```result``` with specified number of associations per word
 
 ### suggested workflow
-```node create.js 10```
-
-```stardict-editor.exe``` (unzip from ```tools\stardict editor.zip```) -- load ```result``` with the gui
-
-```dictzip <result>.dict```
-
-```dictzip <result>.idx```
+1. ```node create.js 10```
+1. ```stardict-editor.exe``` (unzip from ```tools\stardict editor.zip```) -- load ```result``` with the gui
+1. ```dictzip <result>.dict```
+1. ```dictzip <result>.idx```
 
 ## example usage / demos
 Below are some projects that make use of the word associations dictionary:
