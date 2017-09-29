@@ -1,9 +1,11 @@
 # Word associations dictionary
-The most comprehensive dictionary of word associations today, combining data from:
+The most comprehensive dictionary of word associations available today, combining data from:
  * [Edinburgh Associative Thesaurus (EAT)](http://www.eat.rl.ac.uk/)
  * [University of South Florida Free Association Norms (USF-FAN)](http://w3.usf.edu/FreeAssociation/)
  * [wordassociation.org](http://www.wordassociation.org/about/)
- * [taboogame.net](http://taboogame.net) and [playtaboo.com](http://www.playtaboo.com)
+ * Taboo games online:
+   * [taboogame.net](http://taboogame.net)
+   * [playtaboo.com](http://www.playtaboo.com)
 
 ## demo
 ![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
@@ -11,10 +13,11 @@ The most comprehensive dictionary of word associations today, combining data fro
 
 ## data format
 * version 2 : 
-* takes in original ```xml``` files 
-* and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
+* version 1 : limited to 11 associations per keyword
+  * takes in original ```xml``` files 
+  * and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
 
-##quick start
+## quick start
 A precompiled version of the Word associations dictionary is available from the ```output``` folder in the repository
 
 ## usage
@@ -38,4 +41,4 @@ Below are some projects that make use of the word associations dictionary:
 
 MIT License
 
-Copyright 2016 Wiktor Jakubczyc
+Copyright 2016-7 Wiktor Jakubczyc
