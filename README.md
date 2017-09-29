@@ -7,10 +7,6 @@ The most comprehensive dictionary of word associations available today, combinin
    * [taboogame.net](http://taboogame.net)
    * [playtaboo.com](http://www.playtaboo.com)
 
-## demo
-![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
-![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
-
 ## data format
 * version 2 : 
 * version 1 : limited to 11 associations per keyword
@@ -34,10 +30,12 @@ creates a file named ```result``` with specified number of associations per word
 
 ```dictzip <result>.idx```
 
-## example usage
+## example usage / demos
 Below are some projects that make use of the word associations dictionary:
 - [Exploring word associations](https://github.com/monolithpl/word.associations)
 - [Create Taboo cards for ESL conversation classes. Learn through word associations](https://github.com/monolithpl/taboo-cards)
+![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
+![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
 
 MIT License
 
