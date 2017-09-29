@@ -9,9 +9,10 @@ The most comprehensive dictionary of word associations today, combining data fro
 ![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
 ![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
 
-##data format
-- takes in original ```xml``` files 
-- and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
+## data format
+* version 2 : 
+* takes in original ```xml``` files 
+* and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
 
 ##quick start
 A precompiled version of the Word associations dictionary is available from the ```output``` folder in the repository
