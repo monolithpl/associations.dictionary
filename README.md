@@ -30,8 +30,8 @@ If you don't want to use the precompiled version of the word associations dictio
 Below are some projects that make use of the word associations dictionary:
 - [Exploring word associations](https://github.com/monolithpl/word.associations)
 - [Create Taboo cards for ESL conversation classes. Learn through word associations](https://github.com/monolithpl/taboo-cards)
-![screenshot](http://monolithpl.github.io/word.associations/word-associations.png "screenshot")
-![screenshot](http://monolithpl.github.io/taboo-cards/taboo.png "screenshot")
+[![Exploring word associations](http://monolithpl.github.io/word.associations/word-associations.png)](https://github.com/monolithpl/word.associations)
+[![Create Taboo cards](http://monolithpl.github.io/taboo-cards/taboo.png)](https://github.com/monolithpl/taboo-cards)
 
 MIT License
 
