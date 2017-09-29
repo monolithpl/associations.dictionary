@@ -8,20 +8,19 @@ The most comprehensive dictionary of word associations available today, combinin
    * [playtaboo.com](http://www.playtaboo.com)
 
 ## data format
-* version 2 : 
-* version 1 : limited to 11 associations per keyword
-  * takes in original ```xml``` files 
-  * and outputs ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
+There are two versions of the word associations dictionary in the repository:
+* **associations-full** : the complete list of associations (in CSV, [DICT](https://en.wikipedia.org/wiki/DICT) and SQL formats)
+* **associations-tiny** : limited to 11 associations per keyword (in CSV and [DICT](https://en.wikipedia.org/wiki/DICT) formats)
+ 
+## make your own
+If you don't want to use the precompiled version of the word associations dictionary, you can create your own using the Node ```create.js``` scripts, which
+* takes source ```xml``` data files from the ```sourcedata``` folder
+* and outputs a ```tabfile``` for use in ```stardict-editor``` (included in repository, windows binary)
 
-## quick start
-A precompiled version of the Word associations dictionary is available from the ```output``` folder in the repository
+### usage
+```node create.js <number of associations>``` creates a file named ```result``` with specified number of associations per word
 
-## usage
-```node create.js <number of associations>```
-
-creates a file named ```result``` with specified number of associations per word
-
-## suggested workflow
+### suggested workflow
 ```node create.js 10```
 
 ```stardict-editor.exe``` (unzip from ```tools\stardict editor.zip```) -- load ```result``` with the gui
